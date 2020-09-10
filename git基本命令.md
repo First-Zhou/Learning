@@ -36,4 +36,4 @@ git merge <name> # 快速合并当前分支和 name 分支
 git branch -d <name> # 删除分支
 ```
 
-<img src="D:\Workspace\github\Learning\Image.assets\git工作图.PNG" alt="git工作图" style="zoom: 80%;" />
+<img src="\Image.assets\git工作图.PNG" alt="git工作图" style="zoom: 80%;" />
