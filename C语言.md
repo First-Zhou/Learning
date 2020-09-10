@@ -13,5 +13,5 @@
 - **char* strcpy(str1, str2)：将str2拷贝到str1**
 - **strncpy()：**
 - **strcmp(str1, str2)：比较str1和str2**
--  **char* strcat(char* str1, char* str2)**
-- **char* strtok(char* str, const char* delimiters)**
+- **char\* strcat(char\* str1, char* str2)**
+- **char\* strtok(char\* str, const char\* delimiters)**
