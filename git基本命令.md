@@ -5,6 +5,7 @@
 git init
 
 # 添加文件
+git add . #提交所有修改
 git add <filename>
 git commit -m "文件的解释说明"
 
