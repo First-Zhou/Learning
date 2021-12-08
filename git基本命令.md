@@ -28,7 +28,7 @@ git add/rm <filename>
 git commit -m "解释说明"
 
 # 分支管理
-git branch # 查看分支
+git branch # 查看所有分支
 git branch <name> # 创建分支
 git checkout <name> # 切换分支
 git checkout -b <name> # 创建并切换分支
