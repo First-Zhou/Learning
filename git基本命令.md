@@ -32,7 +32,7 @@ git branch # 查看所有分支
 git branch <name> # 创建分支
 git checkout <name> # 切换分支
 git checkout -b <name> # 创建并切换分支
-git merge <name> # 快速合并当前分支和 name 分支
+git merge <name> # 快速合并当前分支和name分支
 git branch -d <name> # 删除分支
 ```
 
